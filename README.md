@@ -39,10 +39,10 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="oCracked_'s GitHub Stats" src="https://github-readme-stats.simon121k.vercel.app/api?username=Simon121k&show_icons=true&hide_border=true" />
-
+  
+![oCracled_'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simon121k&count_private=true&hide=stars,issues&theme=tokyonight)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simon121k&theme=tokyonight)
 </details>
 
 [twitter]: https://twitter.com/oCracked_
