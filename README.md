@@ -46,6 +46,11 @@
  
 </details>
 
+<Projects>
+  - 🔱 TridentClient | [@TridentClient](https://discord.gg/AjB5yvYwQX)
+  - 💻 HavenStudios | Coming Soon
+
+
 [twitter]: https://twitter.com/oCracked_
 [youtube]: https://youtube.com/channel/UCjAws5cUWJeHS3j7YvexTCA
 [instagram]: https://instagram.com/ComingSoon
