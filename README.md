@@ -33,10 +33,7 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="oCracked_ GitHub Stats" src="https://github-readme-stats.simon121k.vercel.app/api?username=Simon121k&show_icons=true&hide_border=true" />
-
+[![oCracked_'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Simon121k)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 [twitter]: https://twitter.com/oCracked_
