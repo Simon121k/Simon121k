@@ -43,3 +43,7 @@
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simon121k&theme=radical)
 </details>
+
+[twitter]: https://twitter.com/oCracked_
+[youtube]: https://youtube.com/channel/UCjAws5cUWJeHS3j7YvexTCA
+[instagram]: https://instagram.com/ComingSoon
