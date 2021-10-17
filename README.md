@@ -40,9 +40,9 @@
 
 <details>
   
-![oCracked_'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simon121k&count_private=true&hide=stars,issues&theme=radical
+![oCracked_'s GitHub Stats]https://github-readme-stats.vercel.app/api?username=Simon121k&count_private=true&hide=stars,issues&theme=radical
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simon121k&theme=radical
+![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=Simon121k&theme=radical
  
 </details>
 
