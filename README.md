@@ -39,12 +39,8 @@
 ---
 
 <details>
-  
+  <summary>:zap: Statistics </summary>
 ![oCracled_'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simon121k&count_private=true&hide=stars,issues&theme=tokyonight)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simon121k&theme=tokyonight)
 </details>
-
-[twitter]: https://twitter.com/oCracked_
-[youtube]: https://www.youtube.com/channel/UCjAws5cUWJeHS3j7YvexTCA
-[instagram]: https://ComingSoon
