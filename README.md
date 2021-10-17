@@ -1,7 +1,7 @@
 ### Hi there, I'm Simon - aka oCracked_👋
 
 [![Website](https://img.shields.io/website?label=TridentClient.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://Tridentclient.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=oCracked_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/oCracked_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=oCracked_)
 
 ## I'm a Student and a Developer!!
 
