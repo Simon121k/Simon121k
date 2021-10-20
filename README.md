@@ -5,6 +5,7 @@
 
 ## I'm a Student and a Developer!!
 
+- 👋 Im a 15 years old Java Developer & a grade 9th student :D
 - 🌱 I’m currently learning everything 🤣
 - 👯 Looking forward to work with big minecraft servers :D
 - 🥅 2021 Goals: Finish LaserTag & Release Trident Client
