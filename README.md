@@ -8,8 +8,6 @@
 - 👋 Im a 15 years old and learning java currently.I'm also a 9th grade student
 - 🌱 I’m currently learning everything 🤣
 - 👯 Looking forward to work with big minecraft servers :D
-- 🥅 2021 Goals: Finish LaserTag & Release Trident Client
-- ⚡ Best At: Java & Spigot :D
 
 ### Connect with me:
 
